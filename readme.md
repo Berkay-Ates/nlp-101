@@ -10,31 +10,32 @@ Bu repo, doğal dil işleme (NLP) ile ilgili temel kavramları ve teknikleri ö�
 
 ## İçindekiler
 
-* **Named Entity Recognition**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/Named_Entity_Recognition.ipynb)
-    * [Resim](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Named_entity_recognition.svg/1200px-Named_entity_recognition.svg.png)
-* **Part of Speech Tagging**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/Part_of_Speech_Tagging.ipynb)
-    * [Resim](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Part-of-speech_tagging_example.svg/1200px-Part-of-speech_tagging_example.svg.png)
-* **Stemming**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/Stemming.ipynb)
-* **Tokenization**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/Tokenization_Example.ipynb)
-* **Stop Words**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/stop_words.ipynb)
-* **Word2Vec Implementation**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/word2vec_implementation.ipynb)
-* **WordNet Lemmatizer**
-    * [Notebook](https://github.com/bard/natural-language-processing-examples/blob/main/wordnet_lemmatizer.ipynb)
+## 1. Named Entity Recognition.ipynb
 
-## Kullanım
+Bu Jupyter notebook, adlandırılmış varlıkları (named entities) tanıma üzerine odaklanmıştır. Named Entity Recognition (NER) teknikleri ve uygulamaları içermektedir.
 
-Bu notebookları kullanmak için, Python'ı ve Jupyter Notebook'ları yüklemeniz gerekir. Ardından, repoyu GitHub'dan indirebilir ve notebookları çalıştırabilirsiniz.
+## 2. Part of Speech Tagging.ipynb
 
-## Katkıda Bulunmak
+Bu Jupyter notebook, kelimelerin cümle içindeki rollerini belirleme amacıyla Part of Speech (POS) etiketleme konusuna odaklanmıştır.
 
-Bu repoya katkıda bulunmak için, bir pull request gönderebilirsiniz. Pull request'iniz, kodun kalitesini ve okunabilirliğini iyileştirmeye yardımcı olmalıdır.
+## 3. Stemming.ipynb
 
-## Lisans
+Bu notebook, kelime köklerini çıkarma işlemine odaklanmaktadır. Stemming algoritmalarını içermektedir.
 
-Bu repo, MIT lisansı altındadır.
+## 4. Tokenization_Example.ipynb
+
+Bu Jupyter notebook, metni belirli bir düzen içinde parçalara bölmek için kullanılan tokenizasyon örneklerini içermektedir.
+
+## 5. stop_words.ipynb
+
+Bu notebook, metinde yaygın olarak kullanılan gereksiz kelimeleri (stop words) tanımlama ve kaldırma üzerine odaklanmıştır.
+
+## 6. word2vec implementation.ipynb
+
+Bu Jupyter notebook, kelime gömme (word embedding) yöntemlerinden biri olan Word2Vec'in uygulanmasını içermektedir.
+
+## 7. wordnet_lemmatizer.ipynb
+
+Bu notebook, WordNet lemmatizer kullanarak kelime lemmatizasyonu üzerine odaklanmıştır.
+
+Her bir notebook'un içindeki açıklamaları ve örnekleri inceleyerek, doğal dil işleme konularında daha fazla anlayış kazanabilirsiniz. İyi çalışmalar!
